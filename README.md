@@ -2,7 +2,7 @@
 
 Welcome to 42 Kuala Lumpur!
 
-![42_KL_entrance_View_1](https://user-images.githubusercontent.com/83443933/126035499-ca1866b6-eb45-4dd2-aae2-14b1d9d1f4c8.jpg)
+<img width="750" src="https://user-images.githubusercontent.com/83443933/126035499-ca1866b6-eb45-4dd2-aae2-14b1d9d1f4c8.jpg">
 
 ## Piscine learning objective
 - String manipulation
@@ -14,7 +14,7 @@ Welcome to 42 Kuala Lumpur!
 - Basic transformations
 
 ## Piscine programme flow
-<img width="750" alt="map_of_the_Piscine_C" src="https://user-images.githubusercontent.com/83443933/126032367-8caa1ef5-8451-45c3-a6a3-d90d0b0194f6.png">
+<img width="750" src="https://user-images.githubusercontent.com/83443933/126032367-8caa1ef5-8451-45c3-a6a3-d90d0b0194f6.png">
 
 ## Piscine programme structure
 [Full programme](https://docs.google.com/spreadsheets/d/1zMvTz8uHdmUdIhclEBuh8W9eF9jBAIPEpg46xcsxr7s/edit?usp=sharing)
