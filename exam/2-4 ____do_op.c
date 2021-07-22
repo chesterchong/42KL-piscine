@@ -1,4 +1,5 @@
 /*
+
 Assignment name  : do_op
 Expected files   : *.c, *.h
 Allowed functions: atoi, printf, write
@@ -27,48 +28,50 @@ $> ./do_op "1" "+" "-43" | cat -e
 -42$
 $> ./do_op | cat -e
 $
+
 */
 
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, char **argv)
+void	ft_check(char **argv)
 {
-    int a;
-    int b;
-    int result;
-    char operator;
+	int	a;
+	int	b;
 
-    if (argc == 4)
-    {
-        a = atoi(argv[1]);
-        operator = argv[2][0];
-        b = atoi(argv[3]);
-        if (operator == '+')
-        {
-            result = a + b;
-        }
-        else if (operator == '-')
-        {
-            result = a - b;
-        }
-        else if (operator == '*')
-        {
-            result = a * b;
-        }
-        else if (operator == '/')
-        {
-            result = a / b;
-        }
-        else if (operator == '%')
-        {
-            result = a % b;
-        }
-        printf("%d\n", result);
-    }
-    else
-    {
-        write(1, "\n", 1);
-    }
+	a = atoi(argv[1]);
+	b = atoi(argv[3]);
+	if (argv[2][0] == '+')
+	{
+		printf("%d\n", a + b);
+	}
+	else if (argv[2][0] == '-')
+	{
+		printf("%d\n", a - b);
+	}
+	else if (argv[2][0] == '*')
+	{
+		printf("%d\n", a * b);
+	}
+	else if (argv[2][0] == '/')
+	{
+		printf("%d\n", a / b);
+	}
+	else if (argv[2][0] == '%')
+	{
+		printf("%d\n", a % b);
+	}
+}
+
+int	main(int argc, char **argv)
+{
+	if (argc == 4)
+	{
+		ft_check(argv);
+	}
+	else
+	{
+		write(1, "\n", 1);
+	}
 }
