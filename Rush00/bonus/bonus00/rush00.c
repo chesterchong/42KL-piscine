@@ -1,5 +1,3 @@
-#include <unistd.h>
-
 void	ft_putchar(char c);
 
 void	first_line(int first_x)
