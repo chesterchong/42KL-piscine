@@ -1,0 +1,5 @@
+Credentials cache: API:E7F32B9B-C888-42FD-8298-5093CDED980C
+        Principal: cmin-kit@42KL.EDU.MY
+
+  Issued                Expires               Principal
+Jul  4 14:55:20 2021  Jul  5 00:55:16 2021  krbtgt/42KL.EDU.MY@42KL.EDU.MY
