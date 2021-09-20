@@ -16,6 +16,10 @@ Welcome to 42 Kuala Lumpur!
 ## Piscine programme flow
 <img width="750" src="https://user-images.githubusercontent.com/83443933/126032367-8caa1ef5-8451-45c3-a6a3-d90d0b0194f6.png">
 
+## Core programme flow
+<img width="750" src="https://raw.githubusercontent.com/chesterchong/42KL-piscine/main/Holy_Graph.gif">
+
+
 ## Piscine programme structure
 [Full programme](https://docs.google.com/spreadsheets/d/1zMvTz8uHdmUdIhclEBuh8W9eF9jBAIPEpg46xcsxr7s/edit?usp=sharing)
 
