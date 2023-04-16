@@ -20,9 +20,6 @@ Welcome to 42 Kuala Lumpur!
 <img width="750" src="https://raw.githubusercontent.com/chesterchong/42KL-piscine/main/Holy_Graph.gif">
 
 
-## Piscine programme structure
-[Full programme](https://docs.google.com/spreadsheets/d/1zMvTz8uHdmUdIhclEBuh8W9eF9jBAIPEpg46xcsxr7s/edit?usp=sharing)
-
 ## 42 Badges
 
 Replace 'username' with your student ID
